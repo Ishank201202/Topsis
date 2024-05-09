@@ -1,0 +1,5 @@
+Model,F1,Acc,PPL,TOPSIS Score,TOPSIS Rank
+Masked Language Model,90.0,83.5,24.77,0.515072777295008,3
+Masked Seq2seq,87.0,82.1,23.4,0.47281233270446077,4
+Permuted Language Model,89.1,83.7,24.03,0.6671251257468536,1
+Multitask Masked Language Model,89.2,82.4,23.73,0.6099228575036655,2
